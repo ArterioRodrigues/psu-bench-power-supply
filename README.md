@@ -40,9 +40,9 @@ All STL files are in the [`/stl`](./stl) folder. Update the folder name if yours
 
 | File         | Description                                |
 | ------------ | ------------------------------------------ |
-| `Part_A.stl` | Replace with description, e.g. main body   |
-| `Part_B.stl` | Replace with description, e.g. front panel |
-| `Part_C.stl` | Replace with description, e.g. cover       |
+| `Part_A.stl` | main body   |
+| `Part_B.stl` | front panel |
+| `Part_C.stl` | cover       |
 
 **Suggested print settings** (adjust to your printer):
 
