@@ -3,8 +3,8 @@
 Turn a standard ATX computer power supply into an adjustable bench power supply. A 3D-printed enclosure holds an ATX breakout board, a buck converter, and banana-style output terminals, so you get fixed 3.3V / 5V / 12V rails plus an adjustable output from a repurposed PC PSU.
 
 > **Status:** Add photos of your finished build here (`/images/finished.jpg`).
-<img width="5712" height="4284" alt="IMG_0849" src="https://github.com/user-attachments/assets/5aad7122-eae2-4818-9745-a17a9453d9fc" />
 <img width="5712" height="4284" alt="8A764AC3-320B-40B9-89CE-A1100759EF85" src="https://github.com/user-attachments/assets/9f05e019-2453-4cc9-891c-f90c6f1cfa2f" />
+<img width="5712" height="4284" alt="IMG_0849" src="https://github.com/user-attachments/assets/5aad7122-eae2-4818-9745-a17a9453d9fc" />
 ---
 
 ## Features
