@@ -169,10 +169,6 @@ Update these once you have tested your build.
 
 ---
 
-## License
-
-Add your license here, for example MIT for code or CC BY-SA for the 3D models.
-
 ## Disclaimer
 
 This project involves mains-powered equipment and high-current DC. Build and use it at your own risk. The author is not responsible for damage or injury.
